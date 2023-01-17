@@ -4,11 +4,12 @@ widget_id: Landing Page
 headless: true
 weight: 10
 title: Welcome!
-hero_media: welcome.jpg
+subtitle: How are you?
 design:
   columns: "1"
   css_style: null
   css_class: null
+hero_media: welcome.jpg
 ---
 <br>
 
