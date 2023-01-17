@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Landing Page
 headless: true
-weight: 10
+weight: 50
 title: Welcome!
 hero_media: welcome.jpg
 design:
