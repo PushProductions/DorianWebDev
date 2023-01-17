@@ -4,7 +4,7 @@ widget_id: Landing Page
 headless: true
 weight: 10
 title: Welcome!
-subtitle: How are you?
+subtitle: ""
 design:
   columns: "1"
   css_style: null
