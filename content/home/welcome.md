@@ -3,7 +3,7 @@ widget: hero
 widget_id: Landing Page
 headless: true
 weight: 10
-title: Frank Dorian Front End Designer
+title: Welcome!
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-H i, my name is **Frank Dorian** and I am working on a new website. Thanks for stopping by my work in progress.
+...my name is **Frank Dorian** and I am working on a new website. Thanks for stopping by my work in progress.
