@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Portfolio
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Portfolio Site |  DorianWebDev.com  |  Frank Dorian'
+    twitter: '@Frank_Dorian'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 16, 2000'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/pushproductions/dorianwebdev'
     content_dir: content
     branch: main
   avatar:
@@ -112,5 +112,5 @@ extensions:
 # Citation style
 
 publications:
-  date_format: January 2006
+  date_format: January 2001
   citation_style: apa
