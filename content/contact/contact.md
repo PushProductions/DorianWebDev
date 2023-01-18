@@ -16,7 +16,7 @@ content:
   # Contact (edit or remove options as required)
 
   email: frank@dorianwebdev.com
-  phone: 346 867 53 09
+  phone: 206 867 53 09
   address:
     street: Downtown
     city: Seattle
