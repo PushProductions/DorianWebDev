@@ -8,4 +8,4 @@ design:
   columns: '1'
 ---
 
-{{% cta cta_link="./frank_dorian/" cta_text="About →" %}}
+{{% cta cta_link="./author/frank-dorian/" cta_text="About →" %}}
