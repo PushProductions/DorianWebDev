@@ -13,4 +13,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-...my name is **Frank Dorian** and I am working on a new website. Thanks for stopping by my work in progress.
+...my name is **Frank Dorian** and I am working on a new website. Thanks for stopping by and checking out my work in progress.
