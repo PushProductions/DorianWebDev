@@ -1,4 +1,4 @@
-# Configuration of Hugo
+# Configuration of Hugo theme: wowchemy-hugo-modules
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
@@ -24,8 +24,7 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: wowchemy-hugo-modules/wowchemy
-
+    
 ############################
 ## ADVANCED
 ############################
@@ -71,4 +70,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-theme: wowchemy-hugo-modules
